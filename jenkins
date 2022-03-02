@@ -1,1 +1,2 @@
-@Library('elifeshared-library')
+@Library('elifeshared_library') _
+elifeApp ''
